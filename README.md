@@ -2,6 +2,7 @@
 Scraping articles from news sites
 
 Sites:
+
 English:
 
 https://www.ynetnews.com/
