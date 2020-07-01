@@ -22,7 +22,7 @@ Steps:
 2.Extract articles to mongoDB
 
 
-It's just a draft. but working fine.
+It's just a draft. but works fine.
 
 # proxiesScraper
   Sites:
