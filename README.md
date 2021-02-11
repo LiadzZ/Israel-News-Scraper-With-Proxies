@@ -3,8 +3,9 @@ Scraping articles from news sites
 
 Sites:
 
-www.ynet.co.il
-www.n12.co.il
+1) www.ynet.co.il
+
+2) www.n12.co.il
 
 It's just a draft. but works fine.
 
