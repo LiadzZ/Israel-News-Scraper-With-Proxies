@@ -3,24 +3,8 @@ Scraping articles from news sites
 
 Sites:
 
-English:
-
-https://www.ynetnews.com/
-
-Hebrew:
-
-categories from https://www.n12.co.il/ 
-
-articles from https://www.mako.co.il/
-
-*n12 directing to mako 
-
-Steps:
-
-1.Extract categories to mongoDB
-
-2.Extract articles to mongoDB
-
+www.ynet.co.il
+www.n12.co.il
 
 It's just a draft. but works fine.
 
