@@ -14,7 +14,7 @@ import datetime
 class Handler:
     def __init__(self):
         #self.client = MongoClient("EnterYourMongoDB-Here")
-        #self.client = MongoClient("mongodb+srv://Test1:Test1@cluster0-pwaip.mongodb.net/test?retryWrites=true&w=majority")
+        #self.client = MongoClient("mongodb+srv://")
         self.current_proxy = None
         self.current_headers = None
         self.p = None
